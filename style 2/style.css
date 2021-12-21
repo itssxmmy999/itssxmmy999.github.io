@@ -1,0 +1,67 @@
+body{
+  
+
+
+
+  color: white;
+  background-color: black;
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+p {
+  font-size:14pt;
+}
+
+li {
+  padding-bottom: 5px;
+  text-align: left;
+  font-size:10pt;
+}
+
+h1 {
+  color: green;
+  cursor: cell;
+}
+
+h2 {
+  padding-top: 50px;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+
+.Linksbuendig {
+    text-align: left;
+  
+}
+
+.Rechtsbuendig {
+  text-align: right;
+  display: block;
+  margin-top:350px;
+}
+
+.Mitte{
+  text-allign: center;
+}
+
+  
+ #bild {width: 160px;
+        float: left;}
+
+ #links {
+	margin-left: 420px;
+        margin-top: 70px;
+}
+
+#bild2 {width: 550px;
+        float: right;}
+
+#rechts{
+   margin-right: 100px;
+        margin-top: 100px;
+        cursor: help;
+}
